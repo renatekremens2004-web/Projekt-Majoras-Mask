@@ -1,4 +1,4 @@
-# Majora’s Mask
+# Projekt-Majoras-Merz
 
 Unsere Projektbasis ist die europäische N64-Version, Revision 1.
 
